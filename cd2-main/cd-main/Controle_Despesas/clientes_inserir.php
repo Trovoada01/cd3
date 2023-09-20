@@ -18,6 +18,7 @@
         <h3>CADASTRO DE CLIENTES</h3>
         <form name="cadastro" method="post" action="">
             <table>
+
                 <tr>
                     <td><label for="nome">Nome:</label></td>
                     <td><input type="text" name="nome" size="40" maxlength="40" placeholder="Informe seu nome completo" required>
